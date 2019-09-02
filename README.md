@@ -1,5 +1,5 @@
 # Markowitz
-Estudando o "Modern Portfolio Management" de Markowitz
+Estudando o "Modern Portfolio Theory" de Markowitz
 
 O método foi pesquisando alguns métodos e exemplos na web. 
 Desenvolvi uma busca ao Yahoo Finance que retorna uma DataFrame contendo as variações percentuais anuais dos ativos.
